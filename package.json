@@ -1,0 +1,14 @@
+{
+	"name": "book-master",
+	"version": "1.0.0",
+	"description": "An online book reading service",
+	"main": "index.js",
+	"scripts": {
+		"sass.build": "sass --no-source-map --watch scss:css "
+	},
+	"author": "Vahid Porki",
+	"license": "MIT",
+	"dependencies": {
+		"sass": "^1.69.5"
+	}
+}
