@@ -1,0 +1,9 @@
+.navbar {
+    .btn-outline-light:hover {
+        color: var(--bs-dark) !important;
+    }
+
+    a:hover {
+        color: var(--bs-secondary) !important;
+    }
+}
